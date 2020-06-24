@@ -32,7 +32,7 @@ inPath=/ubuntu
 # Proto=        -e      # Protocol to use for transfer (http, ftp, hftp, rsync)
 # Choose one - http is most usual the service, and the service must be avaialbe on the server you point at.
 #
-proto=http
+proto=rsync
 
 # Outpath=              # Directory to store the mirror in
 # Make this a full path to where you want to mirror the material.
